@@ -32,7 +32,8 @@ Step-by-step connection guide in [Wiring Guide/Wiring_Guide.md](Wiring%20Guide/W
 ---
 
 ## 📷 Schematic
-![Schematic](Schematic/Wireless ignition system.png)
+![Schematic](Schematic/Wireless ignition sytem.png)
+
 
 
 ---
