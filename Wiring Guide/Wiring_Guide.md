@@ -1,6 +1,6 @@
 # 🧰 Wiring Instructions
 
-## ESP32 + Transistor + Relay
+## ESP32+Transistor+Relay
 
 - ESP32 GPIO19 → 1kΩ resistor → Transistor base
 - Transistor emitter → Relay GND → Common GND with ESP32 and arduino
