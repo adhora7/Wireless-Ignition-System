@@ -8,4 +8,4 @@
 | Resistor (1kΩ)       | 1        | For base of transistor           |
 | Battery (9V or 7.4V) | 1        | To power ignition wire           |
 | Nichrome / Steel Wool| ~5cm     | Heats up to ignite match         |
-| Matchstick           | 1+       | The star of the show ✨🔥         |
+| Matchstick           | 1+       | For ignition         |
